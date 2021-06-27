@@ -25,10 +25,10 @@ img {
   /* colors */
   --hue: 200;
   /* HSL color mode */
-  --base-color: hsl(var(--hue) 36% 57%);
-  --base-color-second: hsl(var(--hue) 65% 88%);
-  --base-color-alt: hsl(var(--hue) 57% 53%);
-  --title-color: hsl(var(--hue) 41% 10%);
+  --base-color: hsl(200 36% 57%);
+  --base-color-second: hsl(200 65% 88%);
+  --base-color-alt: hsl(200 57% 53%);
+  --title-color: hsl(200 41% 10%);
   --text-color: hsl(0 0% 46%);
   --text-color-light: hsl(0 0% 98%);
   --body-color: hsl(0 0% 98%);
@@ -57,6 +57,10 @@ body {
   font: 700 var(--title-font-size) var(--title-font);
   color: var(--title-color);
   -webkit-font-smoothing: auto;
+}
+
+.title span {
+  color: var(--base-color-alt);
 }
 
 .button {
@@ -354,6 +358,12 @@ nav.show div.icon-close {
   border-bottom: 0.25rem solid var(--base-color);
   border-radius: 0.25rem 0.25rem 0 0;
   text-align: center;
+  transition: all 0.3s ease-in-out !important;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.1) !important;
+  transform: scale(1.1) !important;
 }
 
 .card i {
@@ -388,6 +398,12 @@ nav.show div.icon-close {
   padding: 2rem;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
   border-radius: 0.25rem;
+  transition: all 0.3s ease-in-out !important;
+}
+
+#testimonials blockquote:hover {
+  -webkit-transform: scale(1.1) !important;
+  transform: scale(1.1) !important;
 }
 
 #testimonials blockquote p {
@@ -658,20 +674,3 @@ footer .social a:hover {
   }
 }
 /* medium devices: 767 > */
-e .image img {
-  border-radius: 0.25rem;
-}
-
-#home .text {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
-  text-align: center;
-}
-
-#home .text h1 {
-  margin-bottom: 1rem;
-}
-
-#home .text p {
-  margin-bottom: 2rem;
-}
