@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Executivecar." title="Executivecar." src=".github/logo.png" width="220px" />
+  <img alt="Executivecar." title="Executivecar." src="./github/logo.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Capa Executivecar." src=".github/capa.png" width="100%">
+  <img alt="Capa Executivecar." src="./github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
