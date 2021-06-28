@@ -33,16 +33,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site executivecar. (acesse clicando <a href="https://rsgabriel01.github.io/executivecar/" target="_blank">aqui</a> é uma aplicação para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>. 
+O site executivecar. (acesse clicando [aqui](https://rsgabriel01.github.io/executivecar/)) é uma aplicação para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela [Rocketseat](https://rocketseat.com.br/).
 
 ## 🔖 Layout
 
-Você pode visualizar o layout original do projeto através [desse link](https://www.figma.com/file/q35G3Q4xCmNxGJbarQfSpG/Origin-Six){:target="_blank"}. É necessário ter conta no [Figma](https://figma.com){:target="_blank"} para acessá-lo.
+Você pode visualizar o layout original do projeto através [desse link](https://www.figma.com/file/q35G3Q4xCmNxGJbarQfSpG/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md){:target="_blank"} para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ♥ junto com Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc){:target="_blank"}
+Feito com ♥ junto com Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
