@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site executivecar. (acesse clicando [aqui](https://rsgabriel01.github.io/executivecar/){:target="_blank"}) é uma aplicação para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela [Rocketseat](https://rocketseat.com.br/). 
+O site executivecar. (acesse clicando [aqui](https://rsgabriel01.github.io/executivecar/{:target="_blank"})) é uma aplicação para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela [Rocketseat](https://rocketseat.com.br/). 
 
 ## 🔖 Layout
 
