@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site executivecar. é uma aplicação comercial/não comercial para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela [Rocketseat](https://rocketseat.com.br/).
+O site executivecar. é uma aplicação para divulgação de serviços e contatos através da internet baseado nos conteúdos ensinados na missao Origin da NextLevelWeek edição 6 fornecida pela [Rocketseat](https://rocketseat.com.br/).
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/q35G3Q4xCmNxGJbarQfSpG/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout original do projeto através [desse link](https://www.figma.com/file/q35G3Q4xCmNxGJbarQfSpG/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
